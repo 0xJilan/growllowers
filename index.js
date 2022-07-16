@@ -32,4 +32,4 @@ const getFollowersByEndOfYear = (
   return Math.floor(followers);
 };
 
-export default getFollowersByEndOfYear;
+module.exports = getFollowersByEndOfYear;
