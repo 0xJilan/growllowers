@@ -1,6 +1,6 @@
 {
   "name": "growllowers",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Tool to calculate the number of followers you will have on social networks if your account increases each week by a certain percentage.",
   "main": "index.js",
   "scripts": {

@@ -8,14 +8,17 @@
 
 Install it through your favorite package manager:
 
-`yarn add growllowers or npm i growllowers `
+`yarn add growllowers or npm i growllowers`
 
 Here's a quick example of usage:
 
-`import getFollowersByEndOfYear from 'growllowers';
+`import getFollowersByEndOfYear from 'growllowers'`
 
-const actualFollowers = 100; //Put the actual number of followers you have
-const weeklyPercentGrowth = 10 //Put the percentage increase you are aiming for each week
+After that, put the actual number of followers you have:
+`const actualFollowers = 100;`
 
-const numberOfFollowerByTheEndOfYear = getFollowersByEndOfYear(actualFollowers, weeklyPercentGrowth)
-`
+And, put the percentage increase you are aiming for each week:
+`const weeklyPercentGrowth = 10;`
+
+Then, to get the result :
+`const numberOfFollowerByTheEndOfYear = getFollowersByEndOfYear(actualFollowers, weeklyPercentGrowth)`
