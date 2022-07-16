@@ -1,0 +1,22 @@
+{
+  "name": "growllowers",
+  "version": "0.0.1",
+  "description": "Tool to calculate the number of followers you will have on social networks if your account increases each week by a certain percentage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xJilan"
+  },
+  "keywords": [
+    "twitter",
+    "tools",
+    "growth",
+    "social",
+    "network"
+  ],
+  "author": "0xjilan",
+  "license": "ISC"
+}
