@@ -2,7 +2,7 @@
   "name": "growllowers",
   "version": "0.0.1",
   "description": "Tool to calculate the number of followers you will have on social networks if your account increases each week by a certain percentage.",
-  "main": "package/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
